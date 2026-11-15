@@ -1,0 +1,220 @@
+Average Review, Total reviews, Total listings, % completion
+
+1. Grandview-Woodland (4.80, 222 reviews, 238 listings, 93.28%)
+2. Strathcona (4.76, 17 reviews, 17 listings, 100%)*
+3. Hastings-Sunrise (4.76, 300 reviews, 346 listings, 86.71%)
+4. Killarney (4.74, 107 reviews, 116 listings, 92.24%)
+5. South Cambie (4.74, 48 reviews, 54 listings, 88.89%)
+6. Downtown Eastside (4.72, 359 reviews, 387 listings, 92.76%)*
+7. Kitsilano (4.71, 398 reviews, 427 listings, 93.21%)
+8. Kensington-Cedar Cottage (4.70, 365 reviews, 389 listings, 93.83%)
+9. Marpole (4.70, 167 reviews, 184 listings, 90.76%)
+10. Victoria-Fraserview (4.70, 164 reviews, 180 listings, 91.11%)
+11. West Point Grey (4.70, 97 reviews, 121 listings, 80.17%)
+12. Riley Park (4.69, 275 reviews, 294 listings, 93.54%)
+13. Sunset (4.69, 193 reviews, 212 listings, 91.04%)
+14. Renfrew-Collingwood (4.69, 252 reviews, 278 listings, 90.64%)
+15. Dunbar Southlands (4.68, 237 reviews, 271 listings, 87.45%)
+16. Downtown (4.68, 1227 reviews, 1434 listings, 85.56%)*
+17. Oakridge (4.66, 88 reviews, 99 listings, 88.89%)
+18. Arbutus Ridge (4.64, 116 reviews, 138 listings, 84.06%)
+19. Shaughnessy (4.64, 66 reviews, 76 listings, 86.84%)
+20. Kerrisdale (4.63, 83 reviews, 96 listings, 86.46%)
+21. Fairview (4.59, 111 reviews, 129 listings, 86.05%)
+22. West End (4.58, 214 reviews, 269 listings, 79.56%)
+23. Mount Pleasant (4.53, 314 reviews, 377 listings, 83.29%)
+
+Remarks: Downtown has the highest listings aka largest market
+         Strathcona may have 100% completion and a high rating, but there's only 17 listings
+--------------------------------------------------------------------------------------------------
+
+Average Price, Recorded listings, Total Listings, % completion
+
+1. Shaughnessy ($511.24, 67 recorded, 76 listings, 88.16%)
+2. Oakridge ($451.03, 82 recorded, 99 listings, 82.83%)
+3. Kerrisdale ($439.71, 88 recorded, 96 listings, 91.67%)
+4. Kitsilano ($432.08, 327 recorded, 427 listings, 76.58%)
+5. West Point Grey ($414.70, 106 recorded, 121 listings, 87.60%)
+6. Downtown ($402.84, 1224 recorded, 1434 listings, 85.36%)
+7. South Cambie ($393.55, 43 recorded, 54 listings, 79.63%)
+8. Arbutus Ridge ($386.61, 127 recorded, 138 listings, 92.03%)
+9. Downtown Eastside ($383.99, 326 recorded, 387 listings, 84.24%)
+10. Dunbar Southlands ($378.63, 222 recorded, 271 listings, 81.92%)
+11. West End ($375.40, 206 recorded, 269 listings, 76.58%)
+12. Riley Park ($331.71, 250 recorded, 294 listings, 85.03%)
+13. Victoria-Fraserview ($311.34, 165 recorded, 180 listings, 91.67%)
+14. Fairview ($298.69, 100 recorded, 129 listings, 77.52%)*
+15. Kensington-Cedar Cottage ($293.12, 327 recorded, 389 listings, 84.06%)
+16. Sunset ($287.74, 181 recorded, 212 listings, 85.38%)
+17. Strathcona ($287.72, 16 recorded, 17 listings, 94.12%)*
+18. Killarney ($285.22, 104 recorded, 116 listings, 89.66%)
+19. Marpole ($282.97, 160 recorded, 184 listings, 86.96%)
+20. Grandview-Woodland ($276.10, 194 recorded, 238 listings, 81.51%)
+21. Renfrew-Collingwood ($264.56, 237 recorded, 278 listings, 85.25%)
+22. Hastings-Sunrise ($255.71, 309 recorded, 346 listings, 89.31%)
+23. Mount Pleasant ($231.30, 301 recorded, 377 listings, 79.84%)
+
+Remarks: Strathcona with highest % completion, but again, lowest sample size
+         Fairview with lowest % completion so may be least accurate price estimation
+-----------------------------------------------------------------------------------------------------
+
+Review Ranking, Price Ranking, Average Absolute Ranking, Mean % completion
+
+1. Kitsilano (7, 4, 5.5, 84.90%)*
+2. South Cambie (5, 7, 6.0, 84.26%)
+3. Downtown Eastside (6, 9, 7.5, 88.50%)
+4. West Point Grey (11, 5, 8.0, 83.89%)
+7. Oakridge (17, 2, 9.5, 85.86%)*
+8. Grandview-Woodland (1, 20, 10.5, 8
+5. Strathcona (2, 17, 9.5, 97.06%)*
+6. Shaughnessy (18, 1, 9.5, 87.50%)*7.40%)
+9. Killarney (4, 18, 11.0, 90.95%)
+10. Downtown (16, 6, 11.0, 85.46%)
+11. Victoria-Fraserview (10, 13, 11.5, 91.39%)* 
+12. Kerrisdale (20, 3, 11.5, 89.07%)
+13. Kensington-Cedar Cottage (8, 15, 11.5, 88.95%)
+14. Riley Park (12, 12, 12.0, 89.29%)
+15. Hastings-Sunrise (3, 22, 12.5, 88.01%)
+16. Dunbar-Southlands (15, 10, 12.5, 84.69%)
+17. Arbutus Ridge (19, 8, 13.5, 88.05%)
+18. Marpole (9, 19, 14.0, 88.86%)
+19. Sunset (13, 16, 14.5, 88.21%)
+20. West End (22, 11, 16.5, 78.07%)
+21. Renfrew-Collingwood (14, 21, 17.5, 87.95%)
+22. Fairview (21, 14, 17.5, 81.79%)
+23. Mount Pleasant (23, 23, 23.0, 81.57%)*
+
+Remarks: Kitsilano, the best consistently performing neighbourhood in both metrics
+         Strathcona, high rating in review yet pretty cheep prices but considerable small sample size
+         Both Shaughnessy and Oakridge have good prices, yet low review rankings
+         Victoria-Fraserview has a pretty accurate data completion for a decent sample size
+         Mount Pleasant is the worst in both reviews and prices
+
+Final Priority search based on top 5 neighbourhoods of all 3 metrics:
+1. Kitsilano (7, 4, 5.5, 84.90%)
+2. South Cambie (5, 7, 6.0, 84.26%)
+3. Downtown Eastside (6, 9, 7.5, 88.50%)
+4. Shaughnessy (18, 1, 9.5, 87.50%)
+5. Oakridge (17, 2, 9.5, 85.86%)
+6. West Point Grey (11, 5, 8.0, 83.89%)
+7. Strathcona (2, 17, 9.5, 97.06%)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+2021 dataset on population census in neighbourhoods: https://maps.civicgis.ca/vancouver/neighbourhoods/
+(Unknown date) AirBNB dataset on the type of housings: https://insideairbnb.com/vancouver/
+
+Population (2021)
+1. Kitsilano - 44, 181
+2. Oakridge - 13, 839
+3. West Point Grey - 13, 186
+4. Downtown Eastside / Strathcona - 13, 005
+5. South Cambie - 9, 846
+6. Shaughnesy - 8, 097
+
+% Homeowners (2021)
+1. Downtown Eastaside / Strathcona - 21.5%
+2. Kitsilano - 42.3%
+3. Oakridge - 57%
+4. South Cambie - 58.3%
+5. West Point Grey - 59.8%
+6. Shaughnesy - 72.2%
+
+Tourist Attraction Sites (Google Maps)
+1. West Point Grey (7) - Spanish Banks Beach, Locarno beach, Jericho Beach, jericho Sailing Centre, Jericho Pier, Old Hastings Mill Store Museum, BC Golf Museum
+2. Kitsilano (6) - Kitsilano Beach, Vancouver Maritime Museum, Burrard Stret Bridge, Hollywood Theatre, Hadden beach, Museum of Vancouver
+3. Downtown Eastside (4) - Chinatown Storytelling Centre, Chinese Cultural Centre Museum, Dr Sun yat San Classical Chinese Garden, Chinese Canadian Museum
+4. Shaughnesy (2) - Waterfall, VanDusen Botanical Garden
+5. Oakridge (1) - Langara Golf Course
+6. Strathcona (0)
+7. South Cambie (0)
+
+Business (2021)
+1. Kitsilano - 1,484
+2. Downtown Eastside/Strachatona - 1,242
+3. West Point Grey - 267
+4. Oakridge - 234
+5. South Cambie - 173
+6. Shaughnesy - 82
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Property Type in Listings for Kitsilano / DTES and Strachatona
+
+Kitsilano
+Entire home                          151
+Entire rental unit                   108
+Entire guest suite                    67
+Private room in home                  33
+Entire condo                          26
+Entire townhouse                      15
+Private room in rental unit            8
+Entire guesthouse                      5
+Entire place                           3
+Private room in townhouse              2
+Private room in condo                  2
+Private room in dome                   2
+Private room in bed and breakfast      2
+Private room in guesthouse             2
+Camper/RV                              1
+
+Downtown Eastaside
+Entire rental unit             179
+Entire condo                    88
+Entire home                     42
+Entire loft                     35
+Entire guest suite              10
+Private room in rental unit      8
+Private room in home             5
+Entire townhouse                 4
+Private room in bungalow         4
+Camper/RV                        3
+Room in aparthotel               3
+Entire guesthouse                2
+Private room in condo            2
+Private room in loft             1
+Room in hotel                    1
+
+Strathcona
+Entire rental unit       10
+Entire loft               3
+Entire condo              2
+Entire guest suite        1
+Private room in condo     1
+
+
+
+Building Type: Income / amount of listings
+
+Kitsilano
+Entire Homes/Apt: $42,210 / 265
+Entire Homes/Apt + Private Rooms: $40,283 / 265 + 29
+
+Downtown Eastside
+Entire Homes/Apt: $46,216 / 297
+Entire Homes/Apt + Private Rooms: $45,144 / 297 + 17
+
+Strathcona
+Entire Homes/Apt: $46,633 / 12
+Entire Homes/Apt + Private Rooms: $43,244 / 12 + 1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Price calclations: https://www.honestdoor.com/cities/bc/vancouver
+
+Kitsilano's condo prices are $1,170,000 and a rental yield of 2.83%
+Kitsilano's house prices are $2,350,000 and a rental yield of 3.59%
+
+DTES / Strathcona's house prices are $1,198,000 and a rental yield of 4.32%
+DTES / Strathcona's condo prices are $582,875 and a rental yield of 2.96%
+
+Rental yield = (Annual Rental Income / Property Value) * 100
+
+Properties, Buy Cost, Implied Annual Rent
+Kitsilano
+*4 houses, $9,400,000, $337,460
+3 houses + 2 condos, $9,390,000, $319,317
+8 condos, $9,360,000, $264,888
+
+DTES + Strachatona
+*8 houses, $9,584,000	$414,029
+6 houses + 4 condos, $9,519,500, $379,534
+7 houses + 2 condos, $9,551,750, $396,781
+17 condos, $9,909,875, $293,302

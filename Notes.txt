@@ -1,0 +1,75 @@
+BC's Short Term Rental Accommodations Act (STRAA)
+    -> June 1, Kelowna opt out
+
+---------------------------------------------------------------------------------------------------------------
+Average Review (Rank the Neighbourhoods):
+    Total number of Reviews
+    Figure out how many reviews were left blank
+    Find the percentage of how many made the review and how many didn't make the review to verify the review
+
+Average Price (Rank the Neighbourhoods):
+    How many Prices are still left blank
+    Find the percentage of how many prices are marked and how many arent to verify the average prices
+
+Comparing the two rankings:
+    Formula: (Review Ranking + Price Ranking) / 2
+    Split the two tables to only the upper half, these are the higher ranked Neighbourhoods
+    Now rank the upper half neighbourhood with the formula again
+    Winning neighbourhood is hypothetical ideal neighbourhood
+
+Possible new statistics:
+    Type of housing in target neighbourhood
+    Average cost of buying houses in target Neighbourhood
+    Demigraphic of total population in target Neighbourhood
+    Demographic of the amount of buyable housings in Neighbourhood
+
+Possible ideas:
+    Depending on how good reviews are, maybe don't use all 10M on buying property, and spend some on renovation to increase quality of housing?
+    If there are less high price condos in the area, less competition, so introduce high rise condo? Vice Versa with low price housing
+    Regulations, lower regulations, easier market to enter and compete in
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Observation
+
+Kitsilano
+"Ideal neighbourhood" meaning that investing here would be theoritically the safest bet. However, with such an ideal neighbourhood, could the market be hard to entery and compete?
+
+Strathcona
+Smallest sample size and listing, just 17 in total. High rating in reviews but cheap prices, could the market be easy to enter here with the lack of supply? What's the population size here an why is it so low when the next lowest neighbourhood is around 100. 
+
+Shaughnessy and Oakridge
+Good price ratins, yet a low review rank. Perhaps, buy in these neighbourhood but don't use al of 10M on buying. Maybe, invest a little into rennovating since the reviews are low in these two neighbourhood, a renovated place with the same good price value may attract more customers and beat the competition.
+
+Mount Pleasant
+Lowest in both review and price metric. Why? Could this be the easiest market to penetrate with little to no competition? is the demand just horrendous?
+
+P.S. Find the demand, population and people without permanat housing in these neighbourhods. 
+     Possibly, tourist visit metrics
+     Figure out regulations and laws in these areas
+
+Final Priority search based on top 5 neighbourhoods of all 3 metrics:
+1. Kitsilano (Consistency)
+2. South Cambie (Consistency)
+3. Downtown Eastside (Consistency)
+4. Shaughnessy (anomoly: Low review, high prices)
+5. Oakridge (anomoly: Low review, high prices)
+6. West Point Grey (anomoly: high review, low prices)
+7. Strathcona (anomoly: horrendously low sample size, high review, cheap prices)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Decisions: Downtown Eastside and Strachatona
+Remark: Close in proximity
+        Downtown Eastside main / Strachatona secondary
+        Good Average Absolute rankings
+        Lowest % of Homeowners but second highest in businesses
+        Good Listings Sample size
+
+P.S. Let's find us some building types
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Presentation MindMap
+Intro
+Kitsilano / Downtown Eastside and Strachatona
+Kitsilano: How, Why
+Downtown Eastside and Strachatona: How, Why
+Final Verdict
